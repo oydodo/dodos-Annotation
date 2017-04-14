@@ -1,13 +1,13 @@
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/    
+## Source: https://github.com/hexojs/hexo/
 # Site
 title: dodo's Annotation
-subtitle:just keep ideas down
+subtitle: just keep ideas down
 description:
 author: dodo
 language:
-timezone:
+timezone: utc
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
